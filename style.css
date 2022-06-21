@@ -1,0 +1,168 @@
+.header{
+    width: 100%;
+    height: 50%;
+    margin: 0%;
+    display: flex;
+}
+.logo{
+    width: 30px;
+
+}
+.header2{
+    padding-left: 228px;
+
+}
+.header3{
+    padding-left: 20px;
+}
+.Body1{
+    background-image: url("Samsung Body 1.webp");
+    width:100%;
+    height: 500px;
+    }
+.Body1 h2{
+    padding-left: 730px;
+} 
+.Body1 h4{
+    padding-left: 730px;
+    font-size: smaller;
+    font-weight: 100;
+    justify-content: center;
+    justify-items: flex-end;
+} 
+.Body1 button{
+    margin-left: 730px;
+    color: white;
+    background-color: black;
+    border-radius: 19px;
+}
+    
+.Body2{
+    text-align: center;
+}
+.Body3{
+    text-align: center;
+}
+.Body4{
+   width: 100%;
+   display: flex;
+   
+}
+.Body4 img{
+    border-radius: 19px;
+}
+.Body401{
+    width: 58%;
+}
+
+
+.Body5{
+    text-align: center;
+}
+.Body6{
+    text-align: center;
+}
+.Body7{
+    width: 100%;
+    padding-left: 317px;
+}
+.Body8{
+    text-align: center;
+}
+.Body9{
+    text-align: center;
+}
+.Body10{
+ background-color: lightblue;
+}
+.Body1001{
+    text-align: center;
+}
+.Body1002{
+    text-align: center;
+}
+.Body1003{
+    padding-left: 408px;
+}
+.Body11{
+    margin-top: -20px;
+    background-color: lightgray;
+    text-align: center;
+    height: 158px;
+    margin-bottom: 0px;
+}
+.Body11 button{
+    padding-top: 5px;
+    background-color: black;
+    color: white;
+    padding-bottom: 5px;
+}
+.Body12{
+    padding-top: 5px;
+    background-image: url("Vaccum Cleaner.jpg");
+    width:100%;
+    text-align: center;
+    line-height: 80%;
+}
+.Body13{
+    text-align: center;
+}
+.Body14{
+    display: flex;
+}
+.InnerBody141 img{
+    border-radius: 19px;
+}
+.InnerBody142{
+    line-height: 50px;
+}
+.Body15{
+    text-align: center;
+}
+.Body15 button{
+    border-style: hidden;
+    padding-left: 31px;
+    font-size: smaller;
+}
+.Body16{
+    font-size: 12px;
+    padding-left: 103px;
+}
+.Body17{
+     display: flex;
+     justify-content: space-between;
+}
+.Body17 ul{
+    list-style: none;
+    padding: 0px;
+}
+.Body17 button{
+    border: none;
+    padding-top: 10px;
+    background-color: white;
+
+}
+.fixedbox{
+    padding-top: 70px;
+    padding-left: 1050px;
+    position: fixed;
+}
+.fixedbox button{
+    margin-left: -50px;
+    border-radius: 19px;
+    justify-items: center;
+    
+}
+.footer{
+    
+    font-size: .83333333vw;
+}
+.footer101{
+    max-width: 71.04166667vw;
+}
+.footer102 button{
+    border: none;
+    font-size: .83333333vw;
+    background-color: white;
+}
+
